@@ -11,7 +11,7 @@ I want to expand my knowledge in one categories for a future job.
 
 ###
 
-<h3 align="left">🔎 Profile</h3>
+<h2 align="left">🔎 Profile</h2>
 
 ###
 
@@ -23,7 +23,7 @@ I want to expand my knowledge in one categories for a future job.
 
 ###
 
-<h3 align="left">🐙 Stats</h3>
+<h2 align="left">🐙 Stats</h2>
 
 ###
 
@@ -34,7 +34,7 @@ I want to expand my knowledge in one categories for a future job.
 
 ###
 
-<h3 align="left">📈 Skills</h3>
+<h2 align="left">📈 Skills</h2>
 
 ###
 
