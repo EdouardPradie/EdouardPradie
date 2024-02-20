@@ -28,7 +28,7 @@ I want to expand my knowledge in a category for a future job.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EdouardPradie&show_icons=true&hide=&count_private=true&theme=react&hide_border=false&show_icons=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdouardPradie&repo=github-readme-stats&cache_seconds=86400&theme=react" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdouardPradie&langs_count=10&theme=react&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
 </div>
 
