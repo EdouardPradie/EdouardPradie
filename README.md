@@ -19,6 +19,9 @@ I want to expand my knowledge in a category for a future job.
   <a href="https://www.linkedin.com/in/edouard-pradie-bb7121237/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://gitlab.com/EdouardPradie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo"  />
+  </a>
 </div>
 
 ###
