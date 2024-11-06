@@ -11,7 +11,7 @@ I want to expand my knowledge in a category for a future job.
 
 ###
 
-<h2 align="left" color="#38bdae">🔎 Profile</h2>
+<h2 align="left" color="#38bdae">🐙 Profile</h2>
 
 ###
 
@@ -26,7 +26,7 @@ I want to expand my knowledge in a category for a future job.
 
 ###
 
-<h2 align="left" color="#38bdae">🐙 Stats</h2>
+<h2 align="left" color="#38bdae">📈 Stats</h2>
 
 ###
 
@@ -37,12 +37,11 @@ I want to expand my knowledge in a category for a future job.
 
 ###
 
-<h2 align="left" color="#38bdae">📈 Skills</h2>
+<h2 align="left" color="#38bdae">🎯 Skills</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
