@@ -7,7 +7,7 @@ I want to expand my knowledge in a category for a future job.
 
 * 🇫🇷  I'm based in Bordeaux but you can also see me in French Guyana or Ireland 🇮🇪
 * 🚀  Passionate about space and aeronautic   🚀
-* ✉️  You can contact me at [edouard.pradie@epitech.eu](mailto:edouard.pradie@epitech.eu)  ✉️
+* ✉️  You can contact me at [edouardpradie@gmail.com](mailto:edouardpradie@gmail.com)  ✉️
 
 ###
 
