@@ -5,8 +5,8 @@ I'm currently a fourth-year student at Epitech Bordeaux, in France and I do a ye
 I'm passionate about low level programming, IoT, DevOps and web development. <br/>
 I want to expand my knowledge in a category for a future job.
 
-* 🇫🇷  I'm based in Bordeaux but you can also see me in French Guyana or Ireland 🇮🇪
-* 🚀  Passionate about space and aeronautic   🚀
+* 🇫🇷  I'm based in Bordeaux but you can also see me in French Guyana or Ireland  🇮🇪
+* 🚀  Passionate about space, aeronautic and rugby  🚀
 * ✉️  You can contact me at [edouardpradie@gmail.com](mailto:edouardpradie@gmail.com)  ✉️
 
 ###
