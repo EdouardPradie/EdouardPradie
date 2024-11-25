@@ -2,7 +2,7 @@
 ===========================
 
 I'm currently a fourth-year student at Epitech Bordeaux, in France and I do a year at DCU in Ireland. <br/>
-I'm passionate about low level programming, IoT, DevOps and I start web development. <br/>
+I'm passionate about low level programming, IoT, DevOps and web development. <br/>
 I want to expand my knowledge in a category for a future job.
 
 * 🇫🇷  I'm based in Bordeaux but you can also see me in French Guyana or Ireland 🇮🇪
