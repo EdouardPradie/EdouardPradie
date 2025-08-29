@@ -1,7 +1,7 @@
 🚀EDOUARD PRADIE🚀
 ===========================
 
-I'm currently a fourth-year student at Epitech Bordeaux, in France and I do a year at DCU in Ireland. <br/>
+I'm currently a fifth-year student at Epitech Bordeaux, in France and I do a year at DCU in Ireland. <br/>
 I'm passionate about low level programming, IoT, DevOps and web development. <br/>
 I want to expand my knowledge in a category for a future job.
 
@@ -22,17 +22,6 @@ I want to expand my knowledge in a category for a future job.
   <a href="https://gitlab.com/EdouardPradie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="left" color="#38bdae">📈 Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EdouardPradie&show_icons=true&hide=&count_private=true&theme=react&hide_border=false&show_icons=true" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdouardPradie&langs_count=10&theme=react&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph" />
 </div>
 
 ###
