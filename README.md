@@ -22,6 +22,9 @@ I want to expand my knowledge in a category for a future job.
   <a href="https://gitlab.com/EdouardPradie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo"  />
   </a>
+  <a href="https://edouardpradie.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=profil&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="profil logo"  />
+  </a>
 </div>
 
 ###
